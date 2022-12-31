@@ -1,0 +1,8 @@
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\bin\Debug\GuessingGameV2.exe.config
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\bin\Debug\GuessingGameV2.exe
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\bin\Debug\GuessingGameV2.pdb
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\obj\Debug\GuessingGameV2.csproj.AssemblyReference.cache
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\obj\Debug\GuessingGameV2.csproj.SuggestedBindingRedirects.cache
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\obj\Debug\GuessingGameV2.csproj.CoreCompileInputs.cache
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\obj\Debug\GuessingGameV2.exe
+G:\Programing stuff\C#\GuessingGameV2\GuessingGameV2\obj\Debug\GuessingGameV2.pdb
